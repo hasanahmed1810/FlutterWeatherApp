@@ -1,1 +1,1 @@
-A simple weather app in flutter
+A simple weather app made using flutter
